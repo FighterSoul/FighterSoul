@@ -2,7 +2,7 @@
 
 Specializing in Web and Mobile Development:
 
-![Programming](https://lottie.host/embed/7402ca96-d502-4262-b2d5-c28526bac8e1/1RFN9snEQY.json)
+<iframe src="https://lottie.host/embed/7402ca96-d502-4262-b2d5-c28526bac8e1/1RFN9snEQY.json"></iframe>
 
 🌱 I’m currently specializing in developing highly interactive Front-end / User Interfaces for web and mobile applications, as well as integrating back-end technologies to create full-stack applications.
 
