@@ -2,9 +2,7 @@
 
 Specializing in Web and Mobile Development:
 
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
-
-<dotlottie-player src="https://lottie.host/7402ca96-d502-4262-b2d5-c28526bac8e1/1RFN9snEQY.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+![Programming](https://lottie.host/embed/7402ca96-d502-4262-b2d5-c28526bac8e1/1RFN9snEQY.json)
 
 🌱 I’m currently specializing in developing highly interactive Front-end / User Interfaces for web and mobile applications, as well as integrating back-end technologies to create full-stack applications.
 
