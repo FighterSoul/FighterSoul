@@ -2,7 +2,7 @@
 
 Specializing in Web and Mobile Development:
 
-![Programming](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
+![Programming](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif?raw=true)
 
 🌱 I’m currently specializing in developing highly interactive Front-end / User Interfaces for web and mobile applications, as well as integrating back-end technologies to create full-stack applications.
 
@@ -25,6 +25,8 @@ Specializing in Web and Mobile Development:
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 - Node.js
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- PHP
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 💞️ I’m looking to collaborate on ...
 😄 Pronouns: ...
