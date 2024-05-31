@@ -38,6 +38,8 @@ Specializing in Web and Mobile Development:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FighterSoul&layout=compact&theme=radical)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=FighterSoul&theme=radical)
+
 <!---
 FighterSoul/FighterSoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
